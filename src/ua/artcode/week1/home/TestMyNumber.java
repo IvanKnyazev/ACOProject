@@ -6,6 +6,7 @@ package ua.artcode.week1.home;
 public class TestMyNumber {
     public static void main(String[] args) {
 
+
         MyNumber num1 = new MyNumber(5);
         MyNumber num2 = new MyNumber(3);
 

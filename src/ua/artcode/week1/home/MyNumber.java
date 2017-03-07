@@ -5,6 +5,7 @@ package ua.artcode.week1.home;
  */
 public class MyNumber {
 
+
     private int value;
 
     public MyNumber(int value) {
